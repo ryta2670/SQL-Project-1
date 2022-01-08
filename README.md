@@ -1,2 +1,2 @@
-# SQL-Projects
-projects using SQL
+# SQL-Project_1
+first project using SQL
